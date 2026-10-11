@@ -606,7 +606,7 @@ This means anyone is free to use, modify and distribute this project, but **deri
 
 ### Permitted use
 
-- Intended for security assessment and penetration testing (pentesting) after installing this project on your personal machine, as well as for researching vulnerabilities and verifying techniques on online systems, services, websites, or networks that you own.**.
+- Intended for security assessment and penetration testing (pentesting) after installing this project on your personal machine, as well as for researching vulnerabilities and verifying techniques on online systems, services, websites, or networks that you own.
 - For study, academic research, testing production, and code review.
 
 ### Compliance and responsibility
